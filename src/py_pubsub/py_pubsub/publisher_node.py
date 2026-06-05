@@ -22,7 +22,7 @@ class Publisher(Node):
 			10)
 
 		# Publish a message every 0.5 seconds
-		timer_period = 0.5 
+		timer_period = 0.5
 		self.timer = self.create_timer(timer_period, self.timer_callback)
 		self.i = 0
 
