@@ -1,0 +1,18 @@
+[0.833s] Invoking command in '/home/sky/Documents/My-Projects/ros2-learning/ros2-ws/build/py_pubsub': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sky/Documents/My-Projects/ros2-learning/ros2-ws/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sky/Documents/My-Projects/ros2-learning/ros2-ws/install/py_pubsub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sky/Documents/My-Projects/ros2-learning/ros2-ws/build/py_pubsub/build --no-deps symlink_data
+[1.094s] running develop
+[1.261s] running egg_info
+[1.277s] writing py_pubsub.egg-info/PKG-INFO
+[1.277s] writing dependency_links to py_pubsub.egg-info/dependency_links.txt
+[1.277s] writing entry points to py_pubsub.egg-info/entry_points.txt
+[1.277s] writing requirements to py_pubsub.egg-info/requires.txt
+[1.277s] writing top-level names to py_pubsub.egg-info/top_level.txt
+[1.310s] reading manifest file 'py_pubsub.egg-info/SOURCES.txt'
+[1.312s] writing manifest file 'py_pubsub.egg-info/SOURCES.txt'
+[1.329s] running build_ext
+[1.329s] Creating /home/sky/Documents/My-Projects/ros2-learning/ros2-ws/install/py_pubsub/lib/python3.12/site-packages/py-pubsub.egg-link (link to .)
+[1.329s] Installing listener script to /home/sky/Documents/My-Projects/ros2-learning/ros2-ws/install/py_pubsub/lib/py_pubsub
+[1.330s] Installing talker script to /home/sky/Documents/My-Projects/ros2-learning/ros2-ws/install/py_pubsub/lib/py_pubsub
+[1.330s] 
+[1.330s] Installed /home/sky/Documents/My-Projects/ros2-learning/ros2-ws/build/py_pubsub
+[1.330s] running symlink_data
+[1.357s] Invoked command in '/home/sky/Documents/My-Projects/ros2-learning/ros2-ws/build/py_pubsub' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/sky/Documents/My-Projects/ros2-learning/ros2-ws/build/py_pubsub/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/sky/Documents/My-Projects/ros2-learning/ros2-ws/install/py_pubsub/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/sky/Documents/My-Projects/ros2-learning/ros2-ws/build/py_pubsub/build --no-deps symlink_data
